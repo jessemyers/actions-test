@@ -10,5 +10,5 @@ jobs:
     name: Do something
     runs-on: ubuntu-latest
     steps:
-      - name: no-op
-        run: exit 0
+      - name: fail
+        run: exit 1
