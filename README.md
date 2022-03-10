@@ -1,3 +1,4 @@
 # GitHub Actions Test
 
-This repo is a toy to test some behaviors of GitHub actions.
+This repo is a toy to test the behavior of condition GitHub actions in conjunction
+with branch protection that requires checks.

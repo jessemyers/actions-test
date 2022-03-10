@@ -1,4 +1,4 @@
-name: Always run
+name: Use the same job name
 on:
   push:
     branches:
