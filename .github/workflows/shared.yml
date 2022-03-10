@@ -5,7 +5,7 @@ on:
 
 jobs:
   build_and_test:
-    name: Do something
+    name: Do something else
     runs-on: ubuntu-latest
     steps:
       - name: no-op
